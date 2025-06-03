@@ -76,11 +76,5 @@ This submission is from **Group 3**.
 
 ---
 
-## 📎 References
-
-- [MADT8101 Hackathon Instruction](MADT8101-Hackathon-Instruction.pdf)
-- [Group 3 Business Proposal](Group3_Business Proposal_Alice_Supermarket.pdf)
-
----
 
 
